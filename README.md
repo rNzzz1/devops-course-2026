@@ -13,3 +13,5 @@
 - Git / GitHub / GitLab (контроль версий, ветвление, Multi-Remote)
 - Python 3.12 (сквозные скрипты и микросервисы)
 - Docker & Docker Compose (контейнеризация)
+
+## Multi-remote test
